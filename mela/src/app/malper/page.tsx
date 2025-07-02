@@ -23,7 +23,7 @@ function page() {
               alt="Build Your Website"
               className="w-full h-32 object-cover rounded-t-lg mb-4"
             />
-            <h3 className="text-xl font-bold mb-2">Build Your Website</h3>
+            <h3 className="text-xl font-bold mb-2">Pirsên Sereke</h3>
             <p className="text-gray-600">Build your website with our easy-to-use templates.</p>
             <a href="/malper/mmavahi/mmmweb" className="text-blue-500 hover:underline mt-4 block">
               View Templates and Start Building

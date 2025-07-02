@@ -20,7 +20,7 @@ function Mmmnavbar() {
         <Navbar.Collapse id="basic-navbar-nav">
           <Nav className="me-auto">
             <Nav.Link href="/malper">Home</Nav.Link>
-            <NavDropdown title="Products" id="basic-nav-dropdown">
+            <NavDropdown title="Tefsîr" id="basic-nav-dropdown">
               <NavDropdown.Item href="/malper/mmavahi/mmmweb">Web Sites</NavDropdown.Item>
               <NavDropdown.Item href="/malper/mmavahi/mmmobile">
                 
@@ -45,7 +45,7 @@ function Mmmnavbar() {
 
 
 
-            <NavDropdown title="Courses" id="basic-nav-dropdown">
+            <NavDropdown title="Kelam" id="basic-nav-dropdown">
               <NavDropdown.Item href="/malper/mmhewcedari/mmmweb">Web</NavDropdown.Item>
               <NavDropdown.Item href="/malper/mmhewcedari/mmmobile">
                 
@@ -62,7 +62,7 @@ Mobile
 
 
 
-            <NavDropdown title="Blog " id="basic-nav-dropdown">
+            <NavDropdown title="Fikih" id="basic-nav-dropdown">
               <NavDropdown.Item href="/malper/mmkargeh/mmmweb">Web Development </NavDropdown.Item>
               <NavDropdown.Item href="/malper/mmkargeh/mmmobile">
                 Mobile Development
@@ -88,7 +88,7 @@ Mobile
           
 
 
-            <NavDropdown title="References" id="basic-nav-dropdown">
+            <NavDropdown title="Fikih" id="basic-nav-dropdown">
               <NavDropdown.Item href="/malper/mmkedkar/mmmapp">Last projects</NavDropdown.Item>
               <NavDropdown.Item href="/malper/mmkedkar/mmmothr">
                 
@@ -102,7 +102,7 @@ Mobile
             </NavDropdown>
 
 
-            <NavDropdown title="For Developers" id="basic-nav-dropdown">
+            <NavDropdown title="Erebî" id="basic-nav-dropdown">
               <NavDropdown.Item href="/malper/mmwesayit">Courses</NavDropdown.Item>
               <NavDropdown.Item href="/malper/mmwesayit/mmmdocs">
                 Documantations
@@ -114,7 +114,7 @@ Mobile
               </NavDropdown.Item>
             </NavDropdown>
 
-            <Nav.Link href="/malper/mmmmm">About Us</Nav.Link>
+            <Nav.Link href="/malper/mmmmm">Derbare </Nav.Link>
 
           </Nav>
         </Navbar.Collapse>
