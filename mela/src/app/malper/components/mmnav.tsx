@@ -19,7 +19,7 @@ function Mmmnavbar() {
         <Navbar.Toggle aria-controls="basic-navbar-nav" />
         <Navbar.Collapse id="basic-navbar-nav">
           <Nav className="me-auto">
-            <Nav.Link href="/malper">Home</Nav.Link>
+            <Nav.Link href="/malper">Malper</Nav.Link>
             <NavDropdown title="Tefsîr" id="basic-nav-dropdown">
               <NavDropdown.Item href="/malper/mmavahi/mmmweb">Web Sites</NavDropdown.Item>
               <NavDropdown.Item href="/malper/mmavahi/mmmobile">
