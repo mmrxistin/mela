@@ -30,10 +30,10 @@ const geistMono = localFont({
 
 export const metadata: Metadata = {
   title: {
-    template: "%s | Yekazad Software Center",
-    default: " Yekazad Software Center",
+    template: "%s | FERHENGA MELA",
+    default: " Ferhenga Mela",
   },
-  description: " Yazılım ve teknoloji çözümleri sunan Yekazad Software Center, web uygulamaları, mobil uygulamalar ve yapay zeka çözümleri ile işinizi ileri taşıyor.",
+  description: " Ansîklopedîya Îslam ê.",
 };
 
 export default function RootLayout({
