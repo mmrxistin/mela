@@ -21,16 +21,16 @@ function Mmmnavbar() {
           <Nav className="me-auto">
             <Nav.Link href="/malper">Malper</Nav.Link>
             <NavDropdown title="Tefsîr" id="basic-nav-dropdown">
-              <NavDropdown.Item href="/malper/mmavahi/mmmweb">Web Sites</NavDropdown.Item>
+              <NavDropdown.Item href="/malper/mmavahi/mmmweb">.....</NavDropdown.Item>
               <NavDropdown.Item href="/malper/mmavahi/mmmobile">
                 
-             Mobile Apps
+             .....
               </NavDropdown.Item>
-              <NavDropdown.Item href="/malper/mmavahi/mmmdesktop">Desktop Apps</NavDropdown.Item>
+              <NavDropdown.Item href="/malper/mmavahi/mmmdesktop">.....</NavDropdown.Item>
               <NavDropdown.Divider />
               <NavDropdown.Item href="/malper/mmavahi/mmmai">
                 
-                Artificial Intelligence
+                .....
               </NavDropdown.Item>
 
 
@@ -38,7 +38,7 @@ function Mmmnavbar() {
 
 
               <NavDropdown.Item href="/malper/mmavahi/mmmhealth">
-                Health/Repairing
+                .....
               </NavDropdown.Item>
             </NavDropdown>
 
@@ -46,31 +46,31 @@ function Mmmnavbar() {
 
 
             <NavDropdown title="Kelam" id="basic-nav-dropdown">
-              <NavDropdown.Item href="/malper/mmhewcedari/mmmweb">Web</NavDropdown.Item>
+              <NavDropdown.Item href="/malper/mmhewcedari/mmmweb">.....</NavDropdown.Item>
               <NavDropdown.Item href="/malper/mmhewcedari/mmmobile">
                 
                 
 Mobile
               </NavDropdown.Item>
-              <NavDropdown.Item href="/malper/mmhewcedari/mmmai">Machine Learning</NavDropdown.Item>
+              <NavDropdown.Item href="/malper/mmhewcedari/mmmai">.....</NavDropdown.Item>
               <NavDropdown.Divider />
               <NavDropdown.Item href="/malper/mmhewcedari/mmmcp">
                 
-                Cross Platform Apps
+                .....
               </NavDropdown.Item>
             </NavDropdown>
 
 
 
             <NavDropdown title="Hedis" id="basic-nav-dropdown">
-              <NavDropdown.Item href="/malper/mmkargeh/mmmweb">Web Development </NavDropdown.Item>
+              <NavDropdown.Item href="/malper/mmkargeh/mmmweb">..... </NavDropdown.Item>
               <NavDropdown.Item href="/malper/mmkargeh/mmmobile">
-                Mobile Development
+                .....
               </NavDropdown.Item>
-              <NavDropdown.Item href="/malper/mmkargeh/mmmai">Building AI apps</NavDropdown.Item>
+              <NavDropdown.Item href="/malper/mmkargeh/mmmai">.....</NavDropdown.Item>
               <NavDropdown.Divider />
               <NavDropdown.Item href="/malper/mmkargeh/mmmcp">
-                About Cross Platform Apps
+                .....
               </NavDropdown.Item>
             </NavDropdown>
 
@@ -89,28 +89,28 @@ Mobile
 
 
             <NavDropdown title="Fikih" id="basic-nav-dropdown">
-              <NavDropdown.Item href="/malper/mmkedkar/mmmapp">Last projects</NavDropdown.Item>
+              <NavDropdown.Item href="/malper/mmkedkar/mmmapp">.....</NavDropdown.Item>
               <NavDropdown.Item href="/malper/mmkedkar/mmmothr">
                 
-                Code Examples
+                .....
               </NavDropdown.Item>
-              <NavDropdown.Item href="/malper/mmkedkar/mmmad"> Advertising and other services</NavDropdown.Item>
+              <NavDropdown.Item href="/malper/mmkedkar/mmmad"> .....</NavDropdown.Item>
               <NavDropdown.Divider />
               <NavDropdown.Item href="/malper/mmkedkar/mmmadvanced">
-                Advanced
+                .....
               </NavDropdown.Item>
             </NavDropdown>
 
 
             <NavDropdown title="Erebî" id="basic-nav-dropdown">
-              <NavDropdown.Item href="/malper/mmwesayit">Courses</NavDropdown.Item>
+              <NavDropdown.Item href="/malper/mmwesayit">.....</NavDropdown.Item>
               <NavDropdown.Item href="/malper/mmwesayit/mmmdocs">
-                Documantations
+               .....
               </NavDropdown.Item>
-              <NavDropdown.Item href="/malper/mmwesayit/mmmopns">Contribute</NavDropdown.Item>
+              <NavDropdown.Item href="/malper/mmwesayit/mmmopns">.....</NavDropdown.Item>
               <NavDropdown.Divider />
               <NavDropdown.Item href="/malper/mmwesayit/mmmmm">
-                Join to Yekazad
+                .....
               </NavDropdown.Item>
             </NavDropdown>
 
