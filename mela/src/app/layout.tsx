@@ -43,6 +43,10 @@ export default function RootLayout({
 }>) {
   return (
     <html lang="en">
+      <head>
+        <link rel="icon" href="/favicon.ico" type="image/x-icon" />
+        <title>Ferhenga Mela</title>
+      </head>
       <body className={`${geistSans.variable} ${geistMono.variable}`}>
         <NextSSRPlugin routerConfig={extractRouterConfig(fileRouter)} />
         <ReactQueryProvider>
@@ -53,7 +57,6 @@ export default function RootLayout({
             disableTransitionOnChange
           >
               {children}
-             
           </ThemeProvider>
         </ReactQueryProvider>
         <Toaster />
