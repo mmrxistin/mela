@@ -62,7 +62,7 @@ Mobile
 
 
 
-            <NavDropdown title="Fikih" id="basic-nav-dropdown">
+            <NavDropdown title="Hedis" id="basic-nav-dropdown">
               <NavDropdown.Item href="/malper/mmkargeh/mmmweb">Web Development </NavDropdown.Item>
               <NavDropdown.Item href="/malper/mmkargeh/mmmobile">
                 Mobile Development
