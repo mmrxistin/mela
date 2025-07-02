@@ -50,7 +50,7 @@ function Mmmnavbar() {
               <NavDropdown.Item href="/malper/mmhewcedari/mmmobile">
                 
                 
-Mobile
+.....
               </NavDropdown.Item>
               <NavDropdown.Item href="/malper/mmhewcedari/mmmai">.....</NavDropdown.Item>
               <NavDropdown.Divider />
