@@ -18,7 +18,7 @@ function page() {
           {/* Card 1: Kabe */}
           <div className="bg-white shadow-lg rounded-lg p-6">
             <img
-              src="https://images.unsplash.com/photo-1506744038136-46273834b3fb?auto=format&fit=crop&w=400&q=80"
+              src="/KABE.jpg"
               alt="Kabe"
               className="w-full h-32 object-cover rounded-t-lg mb-4"
             />
@@ -34,7 +34,7 @@ function page() {
           {/* Card 2: Cami */}
           <div className="bg-white shadow-lg rounded-lg p-6">
             <img
-              src="https://images.unsplash.com/photo-1501594907352-04cda38ebc29?auto=format&fit=crop&w=400&q=80"
+              src="Camii.jpg"
               alt="Cami"
               className="w-full h-32 object-cover rounded-t-lg mb-4"
             />
@@ -50,7 +50,7 @@ function page() {
           {/* Card 3: Qur'an */}
           <div className="bg-white shadow-lg rounded-lg p-6">
             <img
-              src="https://images.unsplash.com/photo-1465101046530-73398c7f28ca?auto=format&fit=crop&w=400&q=80"
+              src="/QURAN.jpg"
               alt="Qur'an"
               className="w-full h-32 object-cover rounded-t-lg mb-4"
             />
