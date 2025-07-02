@@ -12,64 +12,58 @@ const Footer = () => (
   <footer className="bg-dark text-white pt-4">
     <div className="container text-center text-md-left">
       <div className="row">
-        {/* About Section */}
+        {/* Derbarê Me */}
         <div className="col-md-4 mt-md-0 mt-3">
-          <h5 className="text-uppercase font-weight-bold">About Us</h5>
+          <h5 className="text-uppercase font-weight-bold">Derbarê Me</h5>
           <p>
-            We are committed to providing the best services and resources for
-            our users. Stay connected with us for updates and news.
+            Ferhenga Mela – Ansîklopedîya Îslamê ya Kurdî. Armanca me belavkirina zanîn, huner û edebiyata Îslamî bi zimanê Kurdî ye. Bi me re bimînin, her roj nûvekirin û agahîyên zêde bibînin.
           </p>
         </div>
 
-        {/* Links Section */}
+        {/* Girêdanên Zû */}
         <div className="col-md-4 mb-md-0 mb-3">
-          <h5 className="text-uppercase font-weight-bold">Quick Links</h5>
+          <h5 className="text-uppercase font-weight-bold">Girêdanên Zû</h5>
           <ul className="list-unstyled">
             <li>
-              <a href="#!" className="text-white">
-                Home
+              <a href="/" className="text-white">
+                Serû
               </a>
             </li>
             <li>
-              <a href="#!" className="text-white">
-                About
+              <a href="/malper" className="text-white">
+                Malper
               </a>
             </li>
             <li>
-              <a href="#!" className="text-white">
-                Services
+              <a href="/malper/mmavahi" className="text-white">
+                Babêt
               </a>
             </li>
             <li>
               <a href="/login" className="text-white">
-                Administration
+                Rêveberî
               </a>
             </li>
           </ul>
         </div>
 
-        {/* Social Media Section */}
+        {/* Têkilîya Civakî */}
         <div className="col-md-4 mb-md-0 mb-3">
-          <h5 className="text-uppercase font-weight-bold">Follow Us</h5>
+          <h5 className="text-uppercase font-weight-bold">Têkilîya Civakî</h5>
           <ul className="list-unstyled d-flex justify-content-center">
             <li className="mx-2">
-              <a href="https://facebook.com" className="text-white">
+              <a href="https://facebook.com" className="text-white" aria-label="Facebook">
                 <i className="fab fa-facebook-f"></i>
               </a>
             </li>
             <li className="mx-2">
-              <a href="https://twitter.com" className="text-white">
+              <a href="https://twitter.com" className="text-white" aria-label="Twitter">
                 <i className="fab fa-twitter"></i>
               </a>
             </li>
             <li className="mx-2">
-              <a href="https://instagram.com" className="text-white">
+              <a href="https://instagram.com" className="text-white" aria-label="Instagram">
                 <i className="fab fa-instagram"></i>
-              </a>
-            </li>
-            <li className="mx-2">
-              <a href="https://linkedin.com" className="text-white">
-                <i className="fab fa-linkedin-in"></i>
               </a>
             </li>
           </ul>
@@ -78,10 +72,12 @@ const Footer = () => (
     </div>
 
     <div className="text-center py-3">
-      © {new Date().getFullYear()} Copyright:{" "}
+      © {new Date().getFullYear()} <span>Ferhenga Mela</span> – Bi destê{" "}
       <a href="https://yekazad.com" className="text-white">
         Yekazad
-      </a>
+      </a>{" "}
+      hate amadekirin. <br />
+      <span>Her tişt bi destûra Xwedê ye.</span>
     </div>
   </footer>
 );

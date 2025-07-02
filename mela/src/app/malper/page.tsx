@@ -62,6 +62,23 @@ function page() {
               Zêdetir bixwîne
             </a>
           </div>
+           <div className="bg-white shadow-lg rounded-lg p-6">
+            <h3 className="text-xl font-bold mb-2">Destpêk</h3>
+            <p className="text-gray-600">
+              Bismillahirahmanirahim<br />
+              Elhamdulillahirrabbulalemin<br />
+              Esselatu vesselamu ala seyyidina Muhammedin ve ala alihi ve sahbihi ecmain<br />
+              Elhamdulillahirabbulalemin<br />
+              Ve salatu ve selamu ala resulina Muhammedin ve alihi ve sahbihi ecmain<br />
+              Allah U Ekber, Allah U Ekber, Allah U Ekber, La ilahe illallah<br />
+              Subhanallah, Elhamdulillah, Allahu Ekber<br />
+              Estağfirullah El-Azim<br />
+              La ilahe illallah, Muhammedur Resulullah
+            </p>
+            <a href="/malper/mmavahi/mmai" className="text-blue-500 hover:underline mt-4 block">
+              Zêdetir bixwîne
+            </a>
+          </div>
         </div>
       
         {/* Recent Updates Section */}
